@@ -72,7 +72,7 @@ U 1 1 544A0588
 P 9750 2850
 F 0 "J1" H 9950 3350 60  0000 C CNN
 F 1 "RJ45" H 9600 3350 60  0000 C CNN
-F 2 "" H 9750 2850 60  0000 C CNN
+F 2 "Connect:RJ45_8" H 9750 2850 60  0001 C CNN
 F 3 "" H 9750 2850 60  0000 C CNN
 	1    9750 2850
 	0    -1   -1   0   
@@ -1053,4 +1053,243 @@ Wire Wire Line
 	4200 4700 900  4700
 Wire Wire Line
 	2750 6000 900  6000
+$Comp
+L CONN_02X22 P1
+U 1 1 544AAFA2
+P 8000 4900
+F 0 "P1" H 8000 6050 50  0000 C CNN
+F 1 "CONN_02X22" V 8000 4900 50  0000 C CNN
+F 2 "" H 8000 4000 60  0001 C CNN
+F 3 "" H 8000 4000 60  0000 C CNN
+	1    8000 4900
+	1    0    0    -1  
+$EndComp
+Text Label 7750 3850 2    60   ~ 0
+mo1
+Text Label 8250 3850 0    60   ~ 0
+mo2
+Text Label 7750 3950 2    60   ~ 0
+mo3
+Text Label 8250 3950 0    60   ~ 0
+mo4
+Text Label 7750 4050 2    60   ~ 0
+mo5
+Text Label 8250 4050 0    60   ~ 0
+mo6
+Text Label 7750 4150 2    60   ~ 0
+mo7
+Text Label 8250 4150 0    60   ~ 0
+mo8
+Text Label 7750 4250 2    60   ~ 0
+mo9
+Text Label 8250 4250 0    60   ~ 0
+mo10
+Text Label 7750 4350 2    60   ~ 0
+mo11
+Text Label 8250 4350 0    60   ~ 0
+mo12
+Text Label 7750 4450 2    60   ~ 0
+mo13
+Text Label 8250 4450 0    60   ~ 0
+mo14
+Text Label 7750 4550 2    60   ~ 0
+mo15
+Text Label 8250 4550 0    60   ~ 0
+mo16
+Text Label 7750 4650 2    60   ~ 0
+mo17
+Text Label 8250 4650 0    60   ~ 0
+mo18
+Text Label 7750 4750 2    60   ~ 0
+mo19
+Text Label 8250 4750 0    60   ~ 0
+mo20
+Text Label 7750 4850 2    60   ~ 0
+mo21
+Text Label 8250 4850 0    60   ~ 0
+mo22
+Text Label 7750 4950 2    60   ~ 0
+mo23
+Text Label 8250 4950 0    60   ~ 0
+mo24
+Text Label 7750 5050 2    60   ~ 0
+mo25
+Text Label 8250 5050 0    60   ~ 0
+mo26
+Text Label 7750 5150 2    60   ~ 0
+mo27
+Text Label 8250 5150 0    60   ~ 0
+mo28
+Text Label 7750 5250 2    60   ~ 0
+mo29
+Text Label 8250 5250 0    60   ~ 0
+mo30
+Text Label 7750 5350 2    60   ~ 0
+mo31
+Text Label 8250 5350 0    60   ~ 0
+mo32
+Text Label 7750 5450 2    60   ~ 0
+mo33
+Text Label 8250 5450 0    60   ~ 0
+mo34
+Text Label 7750 5550 2    60   ~ 0
+mo35
+Text Label 8250 5550 0    60   ~ 0
+mo36
+$Comp
+L CONN_02X08 P2
+U 1 1 544AC8D3
+P 9200 4200
+F 0 "P2" H 9200 4650 50  0000 C CNN
+F 1 "CONN_02X08" V 9200 4200 50  0000 C CNN
+F 2 "" H 9200 3000 60  0001 C CNN
+F 3 "" H 9200 3000 60  0000 C CNN
+	1    9200 4200
+	1    0    0    -1  
+$EndComp
+Text Label 9450 3850 0    60   ~ 0
+mo37
+Text Label 7750 5650 2    60   ~ 0
+cutout
+Text Label 8250 5650 0    60   ~ 0
+cutout
+Text Label 9450 4050 0    60   ~ 0
+cutout
+Text Label 8950 4050 2    60   ~ 0
+cutout
+Text Label 9450 3950 0    60   ~ 0
+mo38
+Text Label 9450 4150 0    60   ~ 0
+mo39
+Text Label 9450 4250 0    60   ~ 0
+mo40
+Text Label 9450 4350 0    60   ~ 0
+mo41
+Text Label 8950 4150 2    60   ~ 0
+coin1
+Text Label 8950 4250 2    60   ~ 0
+coin2
+Text Label 8950 4350 2    60   ~ 0
+coin3
+Text Label 8950 4450 2    60   ~ 0
+coin4
+Text Label 8950 4550 2    60   ~ 0
+coin5
+$Comp
+L CONN_01X01 P35
+U 1 1 544AD79D
+P 7050 5550
+F 0 "P35" H 7050 5650 50  0000 C CNN
+F 1 "CONN_01X01" V 7150 5550 50  0001 C CNN
+F 2 "Connect:1pin" H 7050 5550 60  0001 C CNN
+F 3 "" H 7050 5550 60  0000 C CNN
+	1    7050 5550
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P42
+U 1 1 544AD844
+P 9600 4950
+F 0 "P42" H 9600 5050 50  0000 C CNN
+F 1 "CONN_01X01" V 9700 4950 50  0001 C CNN
+F 2 "Connect:1pin" H 9600 4950 60  0001 C CNN
+F 3 "" H 9600 4950 60  0000 C CNN
+	1    9600 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P36
+U 1 1 544AD8B5
+P 8900 5550
+F 0 "P36" H 8900 5650 50  0000 C CNN
+F 1 "CONN_01X01" V 9000 5550 50  0001 C CNN
+F 2 "Connect:1pin" H 8900 5550 60  0001 C CNN
+F 3 "" H 8900 5550 60  0000 C CNN
+	1    8900 5550
+	1    0    0    -1  
+$EndComp
+Text Label 9400 4950 2    60   ~ 0
+mo42
+Wire Wire Line
+	8250 5550 8700 5550
+Wire Wire Line
+	7750 5550 7250 5550
+$Comp
+L CONN_01X01 PC1
+U 1 1 544AE477
+P 10600 4100
+F 0 "PC1" H 10600 4200 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 4100 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 4100 60  0001 C CNN
+F 3 "" H 10600 4100 60  0000 C CNN
+	1    10600 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 PC2
+U 1 1 544AE4F8
+P 10600 4300
+F 0 "PC2" H 10600 4400 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 4300 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 4300 60  0001 C CNN
+F 3 "" H 10600 4300 60  0000 C CNN
+	1    10600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 PC3
+U 1 1 544AE54E
+P 10600 4500
+F 0 "PC3" H 10600 4600 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 4500 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 4500 60  0001 C CNN
+F 3 "" H 10600 4500 60  0000 C CNN
+	1    10600 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 PC4
+U 1 1 544AE599
+P 10600 4700
+F 0 "PC4" H 10600 4800 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 4700 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 4700 60  0001 C CNN
+F 3 "" H 10600 4700 60  0000 C CNN
+	1    10600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 PC5
+U 1 1 544AE61F
+P 10600 4900
+F 0 "PC5" H 10600 5000 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 4900 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 4900 60  0001 C CNN
+F 3 "" H 10600 4900 60  0000 C CNN
+	1    10600 4900
+	1    0    0    -1  
+$EndComp
+Text Label 10400 4100 2    60   ~ 0
+coin1
+Text Label 10400 4300 2    60   ~ 0
+coin2
+Text Label 10400 4500 2    60   ~ 0
+coin3
+Text Label 10400 4700 2    60   ~ 0
+coin4
+Text Label 10400 4900 2    60   ~ 0
+coin5
+$Comp
+L CONN_01X01 PAC1
+U 1 1 544AED09
+P 10600 5300
+F 0 "PAC1" H 10600 5400 50  0000 C CNN
+F 1 "CONN_01X01" V 10700 5300 50  0001 C CNN
+F 2 "Connect:1pin" H 10600 5300 60  0001 C CNN
+F 3 "" H 10600 5300 60  0000 C CNN
+	1    10600 5300
+	1    0    0    -1  
+$EndComp
+Text Label 10400 5300 2    60   ~ 0
+ac
 $EndSCHEMATC
