@@ -107,9 +107,9 @@ Text Label 2150 1400 0    60   ~ 0
 ac
 Connection ~ 2150 1400
 Text Label 2150 1050 0    60   ~ 0
-motor1
+mo1
 Text Label 2150 1800 0    60   ~ 0
-motor1
+mo2
 $Comp
 L MOC3021M IC2
 U 1 1 544A281F
@@ -146,9 +146,9 @@ Text Label 3550 1400 0    60   ~ 0
 ac
 Connection ~ 3550 1400
 Text Label 3550 1050 0    60   ~ 0
-motor1
+mo3
 Text Label 3550 1800 0    60   ~ 0
-motor1
+mo4
 $Comp
 L MOC3021M IC3
 U 1 1 544A2D78
@@ -185,9 +185,9 @@ Text Label 5000 1400 0    60   ~ 0
 ac
 Connection ~ 5000 1400
 Text Label 5000 1050 0    60   ~ 0
-motor1
+mo5
 Text Label 5000 1800 0    60   ~ 0
-motor1
+mo6
 $Comp
 L MOC3021M IC4
 U 1 1 544A2DCC
@@ -224,9 +224,9 @@ Text Label 6400 1400 0    60   ~ 0
 ac
 Connection ~ 6400 1400
 Text Label 6400 1050 0    60   ~ 0
-motor1
+mo7
 Text Label 6400 1800 0    60   ~ 0
-motor1
+mo8
 $Comp
 L MOC3021M IC5
 U 1 1 544A32B8
@@ -263,9 +263,9 @@ Text Label 7800 1400 0    60   ~ 0
 ac
 Connection ~ 7800 1400
 Text Label 7800 1050 0    60   ~ 0
-motor1
+mo9
 Text Label 7800 1800 0    60   ~ 0
-motor1
+mo10
 $Comp
 L MOC3021M IC6
 U 1 1 544A330C
@@ -302,9 +302,9 @@ Text Label 9200 1400 0    60   ~ 0
 ac
 Connection ~ 9200 1400
 Text Label 9200 1050 0    60   ~ 0
-motor1
+mo11
 Text Label 9200 1800 0    60   ~ 0
-motor1
+mo12
 Wire Wire Line
 	900  800  8400 800 
 Wire Wire Line
@@ -384,9 +384,9 @@ Text Label 2150 2700 0    60   ~ 0
 ac
 Connection ~ 2150 2700
 Text Label 2150 2350 0    60   ~ 0
-motor1
+mo13
 Text Label 2150 3100 0    60   ~ 0
-motor1
+mo14
 $Comp
 L MOC3021M IC14
 U 1 1 544A688D
@@ -423,9 +423,9 @@ Text Label 3550 2700 0    60   ~ 0
 ac
 Connection ~ 3550 2700
 Text Label 3550 2350 0    60   ~ 0
-motor1
+mo15
 Text Label 3550 3100 0    60   ~ 0
-motor1
+mo16
 $Comp
 L MOC3021M IC15
 U 1 1 544A68A2
@@ -462,9 +462,9 @@ Text Label 5000 2700 0    60   ~ 0
 ac
 Connection ~ 5000 2700
 Text Label 5000 2350 0    60   ~ 0
-motor1
+mo17
 Text Label 5000 3100 0    60   ~ 0
-motor1
+mo18
 $Comp
 L MOC3021M IC16
 U 1 1 544A68B7
@@ -501,9 +501,9 @@ Text Label 6400 2700 0    60   ~ 0
 ac
 Connection ~ 6400 2700
 Text Label 6400 2350 0    60   ~ 0
-motor1
+mo19
 Text Label 6400 3100 0    60   ~ 0
-motor1
+mo20
 $Comp
 L MOC3021M IC17
 U 1 1 544A68CC
@@ -540,9 +540,9 @@ Text Label 7800 2700 0    60   ~ 0
 ac
 Connection ~ 7800 2700
 Text Label 7800 2350 0    60   ~ 0
-motor1
+mo21
 Text Label 7800 3100 0    60   ~ 0
-motor1
+mo22
 Wire Wire Line
 	7000 2350 7000 2100
 Connection ~ 7000 2350
@@ -619,9 +619,9 @@ Text Label 2150 4000 0    60   ~ 0
 ac
 Connection ~ 2150 4000
 Text Label 2150 3650 0    60   ~ 0
-motor1
+mo23
 Text Label 2150 4400 0    60   ~ 0
-motor1
+mo24
 $Comp
 L MOC3021M IC24
 U 1 1 544A732C
@@ -658,9 +658,9 @@ Text Label 3550 4000 0    60   ~ 0
 ac
 Connection ~ 3550 4000
 Text Label 3550 3650 0    60   ~ 0
-motor1
+mo25
 Text Label 3550 4400 0    60   ~ 0
-motor1
+mo26
 $Comp
 L MOC3021M IC25
 U 1 1 544A7341
@@ -697,9 +697,9 @@ Text Label 5000 4000 0    60   ~ 0
 ac
 Connection ~ 5000 4000
 Text Label 5000 3650 0    60   ~ 0
-motor1
+mo27
 Text Label 5000 4400 0    60   ~ 0
-motor1
+mo28
 $Comp
 L MOC3021M IC26
 U 1 1 544A7356
@@ -736,9 +736,9 @@ Text Label 6400 4000 0    60   ~ 0
 ac
 Connection ~ 6400 4000
 Text Label 6400 3650 0    60   ~ 0
-motor1
+mo29
 Text Label 6400 4400 0    60   ~ 0
-motor1
+mo30
 Wire Wire Line
 	5650 3650 5650 3400
 Connection ~ 5650 3650
@@ -806,9 +806,9 @@ Text Label 2150 5300 0    60   ~ 0
 ac
 Connection ~ 2150 5300
 Text Label 2150 4950 0    60   ~ 0
-motor1
+mo31
 Text Label 2150 5700 0    60   ~ 0
-motor1
+mo32
 $Comp
 L MOC3021M IC32
 U 1 1 544A7FD7
@@ -845,9 +845,9 @@ Text Label 3550 5300 0    60   ~ 0
 ac
 Connection ~ 3550 5300
 Text Label 3550 4950 0    60   ~ 0
-motor1
+mo33
 Text Label 3550 5700 0    60   ~ 0
-motor1
+mo34
 $Comp
 L MOC3021M IC33
 U 1 1 544A7FEC
@@ -884,9 +884,9 @@ Text Label 5000 5300 0    60   ~ 0
 ac
 Connection ~ 5000 5300
 Text Label 5000 4950 0    60   ~ 0
-motor1
+mo35
 Text Label 5000 5700 0    60   ~ 0
-motor1
+mo36
 Wire Wire Line
 	4200 4950 4200 4700
 Connection ~ 4200 4950
@@ -943,9 +943,9 @@ Text Label 2150 6600 0    60   ~ 0
 ac
 Connection ~ 2150 6600
 Text Label 2150 6250 0    60   ~ 0
-motor1
+mo37
 Text Label 2150 7000 0    60   ~ 0
-motor1
+mo38
 $Comp
 L MOC3021M IC38
 U 1 1 544A8026
@@ -982,9 +982,9 @@ Text Label 3550 6600 0    60   ~ 0
 ac
 Connection ~ 3550 6600
 Text Label 3550 6250 0    60   ~ 0
-motor1
+mo39
 Text Label 3550 7000 0    60   ~ 0
-motor1
+mo40
 Wire Wire Line
 	2750 6250 2750 6000
 Connection ~ 2750 6250
@@ -1038,9 +1038,9 @@ Text Label 5100 7050 0    60   ~ 0
 ac
 Connection ~ 5100 7050
 Text Label 5100 6700 0    60   ~ 0
-motor1
+mo41
 Text Label 5100 7450 0    60   ~ 0
-motor1
+mo42
 Wire Wire Line
 	4300 6700 4300 6450
 Connection ~ 4300 6700
