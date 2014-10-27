@@ -64,7 +64,7 @@ F 1 "MOC3021M" H 1900 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 1600 1520 30  0001 C CIN
 F 3 "" H 1800 1700 60  0000 C CNN
 	1    1800 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L RJ45 J1
@@ -130,7 +130,7 @@ F 1 "MOC3021M" H 3300 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 3000 1520 30  0001 C CIN
 F 3 "" H 3200 1700 60  0000 C CNN
 	1    3200 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 1600 2850 1250
@@ -169,7 +169,7 @@ F 1 "MOC3021M" H 4750 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 4450 1520 30  0001 C CIN
 F 3 "" H 4650 1700 60  0000 C CNN
 	1    4650 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4300 1600 4300 1250
@@ -208,7 +208,7 @@ F 1 "MOC3021M" H 6150 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 5850 1520 30  0001 C CIN
 F 3 "" H 6050 1700 60  0000 C CNN
 	1    6050 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5700 1600 5700 1250
@@ -247,7 +247,7 @@ F 1 "MOC3021M" H 7550 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 7250 1520 30  0001 C CIN
 F 3 "" H 7450 1700 60  0000 C CNN
 	1    7450 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	7100 1600 7100 1250
@@ -286,7 +286,7 @@ F 1 "MOC3021M" H 8950 1510 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 8650 1520 30  0001 C CIN
 F 3 "" H 8850 1700 60  0000 C CNN
 	1    8850 1700
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	8500 1600 8500 1250
@@ -368,7 +368,7 @@ F 1 "MOC3021M" H 1900 2810 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 1600 2820 30  0001 C CIN
 F 3 "" H 1800 3000 60  0000 C CNN
 	1    1800 3000
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1450 2900 1450 2550
@@ -407,7 +407,7 @@ F 1 "MOC3021M" H 3300 2810 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 3000 2820 30  0001 C CIN
 F 3 "" H 3200 3000 60  0000 C CNN
 	1    3200 3000
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 2900 2850 2550
@@ -446,7 +446,7 @@ F 1 "MOC3021M" H 4750 2810 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 4450 2820 30  0001 C CIN
 F 3 "" H 4650 3000 60  0000 C CNN
 	1    4650 3000
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4300 2900 4300 2550
@@ -485,7 +485,7 @@ F 1 "MOC3021M" H 6150 2810 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 5850 2820 30  0001 C CIN
 F 3 "" H 6050 3000 60  0000 C CNN
 	1    6050 3000
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5700 2900 5700 2550
@@ -524,7 +524,7 @@ F 1 "MOC3021M" H 7550 2810 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 7250 2820 30  0001 C CIN
 F 3 "" H 7450 3000 60  0000 C CNN
 	1    7450 3000
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	7100 2900 7100 2550
@@ -603,7 +603,7 @@ F 1 "MOC3021M" H 1900 4110 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 1600 4120 30  0001 C CIN
 F 3 "" H 1800 4300 60  0000 C CNN
 	1    1800 4300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1450 4200 1450 3850
@@ -642,7 +642,7 @@ F 1 "MOC3021M" H 3300 4110 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 3000 4120 30  0001 C CIN
 F 3 "" H 3200 4300 60  0000 C CNN
 	1    3200 4300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 4200 2850 3850
@@ -681,7 +681,7 @@ F 1 "MOC3021M" H 4750 4110 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 4450 4120 30  0001 C CIN
 F 3 "" H 4650 4300 60  0000 C CNN
 	1    4650 4300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4300 4200 4300 3850
@@ -720,7 +720,7 @@ F 1 "MOC3021M" H 6150 4110 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 5850 4120 30  0001 C CIN
 F 3 "" H 6050 4300 60  0000 C CNN
 	1    6050 4300
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5700 4200 5700 3850
@@ -790,7 +790,7 @@ F 1 "MOC3021M" H 1900 5410 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 1600 5420 30  0001 C CIN
 F 3 "" H 1800 5600 60  0000 C CNN
 	1    1800 5600
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1450 5500 1450 5150
@@ -829,7 +829,7 @@ F 1 "MOC3021M" H 3300 5410 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 3000 5420 30  0001 C CIN
 F 3 "" H 3200 5600 60  0000 C CNN
 	1    3200 5600
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 5500 2850 5150
@@ -868,7 +868,7 @@ F 1 "MOC3021M" H 4750 5410 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 4450 5420 30  0001 C CIN
 F 3 "" H 4650 5600 60  0000 C CNN
 	1    4650 5600
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4300 5500 4300 5150
@@ -927,7 +927,7 @@ F 1 "MOC3021M" H 1900 6710 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 1600 6720 30  0001 C CIN
 F 3 "" H 1800 6900 60  0000 C CNN
 	1    1800 6900
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1450 6800 1450 6450
@@ -966,7 +966,7 @@ F 1 "MOC3021M" H 3300 6710 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 3000 6720 30  0001 C CIN
 F 3 "" H 3200 6900 60  0000 C CNN
 	1    3200 6900
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 6800 2850 6450
@@ -1022,7 +1022,7 @@ F 1 "MOC3021M" H 4850 7160 40  0000 C CNN
 F 2 "Sockets_DIP:DIP-6__300_ELL" H 4550 7170 30  0001 C CIN
 F 3 "" H 4750 7350 60  0000 C CNN
 	1    4750 7350
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4400 7250 4400 6900
