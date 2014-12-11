@@ -1,4 +1,4 @@
-(module Connect:BUS_AT (layer F.Cu) (tedit 5461D8EE)
+(module Connect:BUS_AT (layer F.Cu) (tedit 54893DAD)
   (descr "card-edge euro 3.96mm snackshop 2 vending machine")
   (tags "CONN CARD EDGE EURO")
   (fp_text reference euro16 (at 1.27 7.62) (layer F.SilkS)
@@ -6,6 +6,12 @@
   )
   (fp_text value P** (at 1.27 -8.89) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
+  )
+  (fp_text user 31.6484,-4.064 (at 38.17112 -3.01752) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "-3.9116, -4.064" (at -10.922 -3.048) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.5148 3.064) (end 10.5148 4.064) (layer Edge.Cuts) (width 0.15))
   (fp_line (start 5.3348 4.064) (end 6.3348 3.064) (layer Edge.Cuts) (width 0.15))
