@@ -5,7 +5,7 @@
     (no_connects 175)
     (area 112.979999 64.719999 255.320001 161.340001)
     (thickness 1.6)
-    (drawings 10)
+    (drawings 12)
     (tracks 0)
     (zones 0)
     (modules 54)
@@ -67,7 +67,7 @@
     (pad_drill 0)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFEF7F)
+    (visible_elements 7FFFFF7F)
     (pcbplotparams
       (layerselection 0x01030_80000001)
       (usegerberextensions false)
@@ -239,7 +239,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C090)
-    (at 167.899501 119.807)
+    (at 178.899501 104.807)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /54460146)
@@ -274,7 +274,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C09A)
-    (at 206.169501 134.477)
+    (at 217.169501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A281F)
@@ -309,7 +309,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0A4)
-    (at 226.519501 124.067)
+    (at 237.519501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A2D78)
@@ -344,7 +344,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0AE)
-    (at 215.939501 134.477)
+    (at 226.939501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A2DCC)
@@ -379,7 +379,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C47D)
-    (at 225.709501 134.477)
+    (at 236.709501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A32B8)
@@ -414,7 +414,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0C2)
-    (at 226.519501 103.247)
+    (at 237.519501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A330C)
@@ -554,7 +554,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0EA)
-    (at 167.899501 109.397)
+    (at 178.899501 94.397)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A2DD2)
@@ -589,7 +589,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0F4)
-    (at 183.919501 92.837)
+    (at 194.919501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A32BE)
@@ -624,7 +624,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C0FE)
-    (at 174.149501 92.837)
+    (at 185.149501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A3312)
@@ -729,7 +729,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C11C)
-    (at 193.689501 92.837)
+    (at 204.689501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A68A2)
@@ -764,7 +764,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C126)
-    (at 177.669501 103.247)
+    (at 188.669501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A68B7)
@@ -834,7 +834,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C13A)
-    (at 187.439501 103.247)
+    (at 198.439501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A687E)
@@ -869,7 +869,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C144)
-    (at 177.669501 113.657)
+    (at 188.669501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A6893)
@@ -904,7 +904,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C14E)
-    (at 167.089501 130.217)
+    (at 178.089501 115.217)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A68A8)
@@ -974,7 +974,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C162)
-    (at 203.459501 92.837)
+    (at 214.459501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A68D2)
@@ -1009,7 +1009,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C16C)
-    (at 187.439501 113.657)
+    (at 198.439501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7317)
@@ -1044,7 +1044,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C176)
-    (at 197.209501 103.247)
+    (at 208.209501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A732C)
@@ -1079,7 +1079,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C180)
-    (at 177.669501 124.067)
+    (at 188.669501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7341)
@@ -1114,7 +1114,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C18A)
-    (at 166.279501 140.627)
+    (at 177.279501 125.627)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7356)
@@ -1149,7 +1149,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C194)
-    (at 206.979501 124.067)
+    (at 217.979501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A731D)
@@ -1184,7 +1184,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C19E)
-    (at 187.439501 124.067)
+    (at 198.439501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7332)
@@ -1219,7 +1219,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1A8)
-    (at 206.979501 103.247)
+    (at 217.979501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7347)
@@ -1254,7 +1254,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1B2)
-    (at 197.209501 113.657)
+    (at 208.209501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A735C)
@@ -1289,7 +1289,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1BC)
-    (at 176.859501 134.477)
+    (at 187.859501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FC2)
@@ -1324,7 +1324,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1C6)
-    (at 222.999501 92.837)
+    (at 233.999501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FD7)
@@ -1359,7 +1359,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1D0)
-    (at 186.629501 134.477)
+    (at 197.629501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FEC)
@@ -1394,7 +1394,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1DA)
-    (at 206.979501 113.657)
+    (at 217.979501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FC8)
@@ -1429,7 +1429,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1E4)
-    (at 197.209501 124.067)
+    (at 208.209501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FDD)
@@ -1464,7 +1464,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1EE)
-    (at 216.749501 103.247)
+    (at 227.749501 88.247)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A7FF2)
@@ -1499,7 +1499,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C1F8)
-    (at 232.769501 92.837)
+    (at 243.769501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A8011)
@@ -1534,7 +1534,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C202)
-    (at 213.229501 92.837)
+    (at 224.229501 77.837)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A8026)
@@ -1569,7 +1569,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C20C)
-    (at 216.749501 113.657)
+    (at 227.749501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A8062)
@@ -1604,7 +1604,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C216)
-    (at 216.749501 124.067)
+    (at 227.749501 109.067)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A8017)
@@ -1639,7 +1639,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C220)
-    (at 196.399501 134.477)
+    (at 207.399501 119.477)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A802C)
@@ -1674,7 +1674,7 @@
   )
 
   (module Sockets_DIP:DIP-6__300_ELL (layer F.Cu) (tedit 5461BEF6) (tstamp 5461C22A)
-    (at 226.519501 113.657)
+    (at 237.519501 98.657)
     (descr "6 pins DIL package, elliptical pads")
     (tags DIL)
     (path /544A8068)
@@ -2006,7 +2006,7 @@
   )
 
   (module euro:euro16 (layer F.Cu) (tedit 54895095) (tstamp 54894B74)
-    (at 259.08 132.4 90)
+    (at 254.08 122.4 90)
     (descr "card-edge euro 3.96mm snackshop 2 vending machine")
     (tags "CONN CARD EDGE EURO")
     (path /544AC8D3)
@@ -2063,6 +2063,8 @@
       (net 60 "Net-(P2-Pad16)"))
   )
 
+  (gr_line (start 250.016 126.3116) (end 250.016 150) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 250.016 150) (end 255.016 150) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 160.016 160) (end 162.0852 160) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_text "166.000,164.064\n162.0852,160.000" (at 155 165) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.1)))
@@ -2070,7 +2072,7 @@
   (gr_text 166.000,164.064 (at 260 163) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_line (start 255.016 65) (end 255.016 100.7516) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 250.016 70) (end 250.016 90.7516) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_text "259.08, 152.4\n255.016, 120.7516" (at 265.43 118.11) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.1)))
   )
@@ -2078,8 +2080,8 @@
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_line (start 253.1252 160) (end 255.016 160) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 160.016 65) (end 160.016 160) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 255.016 136.3116) (end 255.016 160) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 160.016 65) (end 255.016 65) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 160.016 70) (end 160.016 160) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 255.016 150) (end 255.016 160) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 160.016 70) (end 250.016 70) (angle 90) (layer Edge.Cuts) (width 0.15))
 
 )
